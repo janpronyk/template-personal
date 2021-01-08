@@ -17,3 +17,8 @@ body {
     color: var(--textColor);
     font-family: var(--mainFont), Courier, monospace;
 }
+
+button {
+    cursor: pointer;
+    outline: none;
+}
